@@ -1,3 +1,72 @@
+<!--
+-------------------------------------------
+Name:        ALKAIPTV Playlist
+License:     Free Version
+Version:     1.0
+Author:      Albas alka
+Author Url:  https://alka.my.id
+Telegram:    https://t.me/alkaiptv
+Donate:      https://saweria.co/AlbasAlka
+-------------------------------------------
+-->
+
+<!-- Begin -->
+
+<!DOCTYPE HTML>
+<html lang="id">
+<head>
+<meta charset="UTF-8" type="type/html"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Tinggal copy URL playlist ini dan langsung masukin ke OTT Navigator atau TiviMate — ALKAIPTV Playlist"/>
+<meta http-equiv="pragma" content="no-cache"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="refresh" content="0; url=https://saweria.co/AlbasAlka"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<title>Tinggal copy URL playlist ini dan langsung masukin ke OTT Navigator atau TiviMate — ALKAIPTV Playlist</title>
+<script src="https://cdn.jsdelivr.net/npm/devtools-detector"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@latest"></script>
+<style type="text/css">* { user-select: auto !important; -webkit-user-select: auto !important; }</style>
+<input type="hidden" id="inject_idm_text_selection"/>
+<style>.hidden {  display: none; }</style>
+<script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool"></script>
+<script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool@latest"></script>
+<link rel="stylesheet" href="/assets/css/styles/main.css"/>
+</head>
+<body class="fullscreen">
+<div class="container">
+<div class="text-wrapper">
+<div class="title">200</div>
+<div class="subtitle">😂 Ngapain diklik linknya? 😂</div>
+</div>
+</div>
+<div id="content" class="hidden">
+
+#######WELCOME#######
+
+#EXTINF:-1 group-title="Albas Alka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0Cqr67gTfzn6eMPogX1F9vBDvyw4H75ViqsqW0F_t4rlH4K-Jpbgon4&s=10",ALBAS ALKA
+https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
+
+#EXTINF:-1 group-title="Albas Alka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9hnajLHivjW-NuM6XPuOEnJUGmbICWaIvg&usqp=CAU",Albas Alka CieMeonx
+https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
+
+#EXTINF:-1 group-title="Albas Alka" tvg-logo="https://i.postimg.cc/4d1HWSZd/tele.jpg", ALKA IPTV™
+https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
+
+#EXTINF:-1 group-title="Albas Alka" tvg-logo="https://i.postimg.cc/bN9VQzKc/DANA.jpg", SUPPORT & DONASI
+https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
+
+
+</div>
+</body>
+<script src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+</html>
+
+<!-- End -->
+
+
+
 <!DOCTYPE html>
 <html lang="en">
                  <script language="javascript">
@@ -4338,18 +4407,6 @@
 #EXTM3U x-url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"  refresh="3600"
 
 
-#######WELCOME#######
-
-#EXTINF:-1 group-title="Albas Alka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LWtaCaxPpoM6-UfMciNPXi8FyEiL1UlHng&usqp=CAU",ALBAS ALKA
-https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
-
-#EXTINF:-1 group-title="Albas Alka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9hnajLHivjW-NuM6XPuOEnJUGmbICWaIvg&usqp=CAU",Albas Alka CieMeonx
-https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
-
-#EXTINF:-1 group-title="Albas Alka" tvg-logo="https://static.whatsapp.net/rsrc.php/v3/yR/r/y8-PTBaP90a.png", 082246543995
-https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
-
-
 
 ########################## NASIONAL ##########################
 
@@ -7195,4 +7252,3 @@ http://aanax.com:8080/zaintree99/90b391e5/297606
 http://aanax.com:8080/zaintree99/90b391e5/297604
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/92a0bf96d4ab9376e8d1e8750326186a.png" group-title="UAE ➾ Sports", AE: Yas TV
 http://aanax.com:8080/zaintree99/90b391e5/22009
-
