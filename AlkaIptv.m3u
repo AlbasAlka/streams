@@ -4461,13 +4461,13 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="Nasional", INDOSIAR HD
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR
 http://103.166.27.2:800/play/a016
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV (LIVE)
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV (LIVE)
 http://103.166.27.2:800/play/a015
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/4OGnTqd.png",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="Nasional", SCTV SD
