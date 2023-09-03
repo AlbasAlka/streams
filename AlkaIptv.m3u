@@ -84,16 +84,16 @@ https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
 ########################## LIVE ##########################
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/tTKng8vz/laliga.jpg", LA LIGA
-https://gameslive.akamaized.net/hls/live-84c483d4-5a08-478d-968c-1637136e2fd2_720p2800kbs/index.m3u8
+#https://gameslive.akamaized.net/hls/live-84c483d4-5a08-478d-968c-1637136e2fd2_720p2800kbs/index.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", PREMIER LEAGUE
-https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
+#https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/VNHbxJjp/bundes.jpg", BUNDES LEAGUE
-https://gameslive.akamaized.net/hls/live-9be81c65-decb-4a7d-a576-8b73355dd927_720p2800kbs/index.m3u8
+#https://gameslive.akamaized.net/hls/live-9be81c65-decb-4a7d-a576-8b73355dd927_720p2800kbs/index.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/j5wJtRc5/serieA.jpg", SERIE A ITALY
-https://gameslive.akamaized.net/hls/live-cab40e59-12b8-483f-b6d6-0890f8b27ea4_720p2800kbs/index.m3u8
+#https://gameslive.akamaized.net/hls/live-cab40e59-12b8-483f-b6d6-0890f8b27ea4_720p2800kbs/index.m3u8
 
 
 
