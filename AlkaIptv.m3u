@@ -86,7 +86,7 @@ https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/tTKng8vz/laliga.jpg", LA LIGA
 #https://gameslive.akamaized.net/hls/live-84c483d4-5a08-478d-968c-1637136e2fd2_720p2800kbs/index.m3u8
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", PREMIER LEAGUE
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", PREMIER LEAGUE
 #https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/VNHbxJjp/bundes.jpg", BUNDES LEAGUE
@@ -97,63 +97,63 @@ https://raw.githubusercontent.com/mimipipi22/streams/master/nosignal/index.m3u8
 
 
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 1 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 1 live
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension=ts&play_token=ijnmRQLtfl
     
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 2 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 2 live
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 3 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 3 live
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154820&extension=ts&play_token=MU1hoMHWkL
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 4 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 4 live
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extension=ts&play_token=V9YxR3GC9d
     
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 5 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 5 live
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 6 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 6 live
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
     
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 7 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 7 live
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1040328&extension=ts&play_token=UzF7Xhc9oq
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 8 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 8 live
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=qBeBPHlYKO
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png", Channel 9 live
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp", Channel 9 live
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
 
-#EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", True Premier 1 HD
+#EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", True Premier 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", True Premier 2 HD
+#EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", True Premier 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", True Premier 3 HD
+#EXTINF:1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", True Premier 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", True Premier 4 HD
+#EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", True Premier 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", Variety 3 Super Sport
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", Variety 3 Super Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium418/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:0 tvg-id="ARENA.PREMIUM.2" tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", Arena 2 Premium
+#EXTINF:0 tvg-id="ARENA.PREMIUM.2" tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", Arena 2 Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
     
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", JV Sports 8 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", JV Sports 8 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
     
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", JV Sports 4 HD
@@ -438,16 +438,16 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a4379
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yyFQTss/championstv1.jpg" group-title="Sports",Champions TV 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298512
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNYzxVJt/championstv2.jpg" group-title="Sports",Champions TV 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298513
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrSXxrrT/championstv3.jpg" group-title="Sports",Champions TV 3
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298514
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcFcx9Y/championstv5.jpg" group-title="Sports",Champions TV 5
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298491
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298491
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3gN90ML/championstv6.jpg" group-title="Sports",Champions TV 6
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298492
@@ -1261,7 +1261,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwLUT-wC17rFycoQjPvXOC3wc7MuiKiJpW0ARIXpma6VTLzJ9pTpc9DXWcGlkDvIqw80fg0Qk_43SrdDuj7OGIpXcIMNUH5xksWWgdzZ5NSrFivAnWa8cO8VjDwHeZtjlNLmu6vr0eUlqJrGk2gLeFII9OwPEHOk6FtXIBWyM9YdOyT8dS28IOsmxo/s720/anhuitv.png" group-title="Entertainment",Anhui TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNttw2pS/anhuitv.png" group-title="Entertainment",Anhui TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1390,26 +1390,26 @@ https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|referer=https://widevine.li
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports", ASTRO CRICKET
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=83HkgGZDVI
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTRORUGBYPASSTV.png" group-title="Sports", PREMIERSPORTS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGY3Stmx/ASTRORUGBYPASSTV.png" group-title="Sports", PREMIERSPORTS
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571253&extension=ts&play_token=OqkrNxqNnQ
 
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROPRIMA.png" group-title="ASTRO BOY", ASTRO PRIMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwNNcDT/ASTROPRIMA.png" group-title="ASTRO BOY", ASTRO PRIMA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571237&extension=ts&play_token=iGC6N9Ex8j
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROOASIS.png" group-title="ASTRO BOY", ASTRO OASIS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSs1c9KW/ASTROOASIS.png" group-title="ASTRO BOY", ASTRO OASIS
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571238&extension=ts&play_token=Pxw1nnzhzz
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROWARNA.png" group-title="ASTRO BOY", ASTRO WARNA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYkFh8wD/ASTROWARNA.png" group-title="ASTRO BOY", ASTRO WARNA
 #http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571231&extension=ts&play_token=WhZ2gZN7Bm
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROVaanavil.jpeg" group-title="ASTRO BOY", ASTRO Vaanavil
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XGWc0jc/ASTROVaanavil.jpg" group-title="ASTRO BOY", ASTRO Vaanavil
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571233&extension=ts&play_token=piYCPCqJGG
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROIQIYI.png" group-title="ASTRO BOY", ASTRO IQIYI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1nPLwXJ/ASTROIQIYI.png" group-title="ASTRO BOY", ASTRO IQIYI
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571198&extension=ts&play_token=hRuuLYo00p
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROXIAOTAIYANG.jpeg" group-title="ASTRO BOY", ASTRO XIAO TAI YANG
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncxSV5Xd/ASTROXIAOTAIYANG.jpg" group-title="ASTRO BOY", ASTRO XIAO TAI YANG
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571230&extension=ts&play_token=Yta3e8Qsnk
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFj8TZV9/ASTROAOD3.jpg" group-title="ASTRO BOY", ASTRO AOD 351
@@ -1421,25 +1421,25 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571229&extension=
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/one.png" group-title="ASTRO BOY", ASTRO ONE
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571193&extension=ts&play_token=Xe6hMCZOQT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO BOY", ASTRO AWANI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxrBp4V7/Astro-Awani.png" group-title="ASTRO BOY", ASTRO AWANI
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571243&extension=ts&play_token=vHCxA4VVCN
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROCERIA.png" group-title="ASTRO BOY", ASTRO CERIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNfWDrB9/ASTROCERIA.png" group-title="ASTRO BOY", ASTRO CERIA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571241&extension=ts&play_token=gzEghu5blV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="ASTRO BOY", ASTRO RIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFmnCv5X/Astro-Ria.png" group-title="ASTRO BOY", ASTRO RIA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571236&extension=ts&play_token=9Kjmz5Ts26
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTRORANIA.jpeg" group-title="ASTRO BOY", ASTRO RANIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zXjhq8s/ASTRORANIA.jpg" group-title="ASTRO BOY", ASTRO RANIA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571256&extension=ts&play_token=jeUFBopj40
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROAURA.jpeg" group-title="ASTRO BOY", ASTRO AURA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FPSGV35/ASTROAURA.jpg" group-title="ASTRO BOY", ASTRO AURA
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571257&extension=ts&play_token=F7zkuEWiDN
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//ASTROStarVijay.png" group-title="ASTRO BOY", ASTRO Star Vijay
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QJXr1G4/ASTROStar-Vijay.png" group-title="ASTRO BOY", ASTRO Star Vijay
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571235&extension=ts&play_token=M8aovx7mOs
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="ASTRO BOY", Astro Vinmeen
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX38M4D/Astro-Vinmeen.png" group-title="ASTRO BOY", Astro Vinmeen
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571232&extension=ts&play_token=g6qpv2nU7t
 
 
