@@ -156,7 +156,7 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", JV Sports 8 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
     
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5bBnJWp/premier.png" group-title="PREMIER LEAGUE", JV Sports 4 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFVPvz3K/epl.webp" group-title="PREMIER LEAGUE", JV Sports 4 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 
    
@@ -1375,19 +1375,41 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 ########ASTRO#######
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvZG8btV/Astro-ASSP1.png" group-title="Sports", ASTRO SUPERSPORT 1 UHD
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/BvZG8btV/Astro-ASSP1.png" group-title="Sport",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium123/index.m3u8
 
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.postimg.cc/nLdfqxDc/Astro-ASSP2.png" group-title="Sport",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdfqxDc/Astro-ASSP2.png" group-title="Sports", ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.postimg.cc/ydk4PGmh/Astro-ASSP3.png" group-title="Sport",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.postimg.cc/Df434tyn/Astro-ASSP4.png" group-title="Sport",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydk4PGmh/Astro-ASSP3.png" group-title="Sports", ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.postimg.cc/Df434tyn/Astro-ASSP5.png" group-title="Sport",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sport",ASTRO CRICKET 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium370/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df434tyn/Astro-ASSP4.png" group-title="Sports", ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sport",ASTRO CRICKET 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
+https://hometv.biz.id/my/dash-wv/linear/2504/default_primary.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports", ASTRO CRICKET (Backup)
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGY3Stmx/ASTRORUGBYPASSTV.png" group-title="Sports", PREMIERSPORTS
