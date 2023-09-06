@@ -516,6 +516,9 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports", ASTRO CRICKET
+https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-GlPSVUiAE_g/YJVJUDdVerI/AAAAAAAAEZY/mt9F3r8SbfgsO_zSmYuBWU4NSuW0Rl2UwCLcBGAsYHQ/s720/tvrisport-p.png" ,TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
@@ -1373,74 +1376,70 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvZG8btV/Astro-ASSP1.png" group-title="Sports", ASTRO SUPERSPORT 1 UHD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571245&extension=ts&play_token=oatD6LI1Qd
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdfqxDc/Astro-ASSP2.png" group-title="Sports", ASTRO SUPERSPORT 2 HD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571248&extension=ts&play_token=KwS7LBpk2j
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydk4PGmh/Astro-ASSP3.png" group-title="Sports", ASTRO SUPERSPORT 3 HD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571247&extension=ts&play_token=YQu2x70UI7
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Df434tyn/Astro-ASSP4.png" group-title="Sports", ASTRO SUPERSPORT 4 HD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571246&extension=ts&play_token=mionprXuno
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports", ASTRO CRICKET (Backup)
-https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports", ASTRO CRICKET
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1036490&extension=ts&play_token=83HkgGZDVI
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGY3Stmx/ASTRORUGBYPASSTV.png" group-title="Sports", PREMIERSPORTS
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571253&extension=ts&play_token=OqkrNxqNnQ
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwNNcDT/ASTROPRIMA.png" group-title="ASTRO BOY", ASTRO PRIMA
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571237&extension=ts&play_token=iGC6N9Ex8j
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSs1c9KW/ASTROOASIS.png" group-title="ASTRO BOY", ASTRO OASIS
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571238&extension=ts&play_token=Pxw1nnzhzz
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYkFh8wD/ASTROWARNA.png" group-title="ASTRO BOY", ASTRO WARNA
-#http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571231&extension=ts&play_token=WhZ2gZN7Bm
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XGWc0jc/ASTROVaanavil.jpg" group-title="ASTRO BOY", ASTRO Vaanavil
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571233&extension=ts&play_token=piYCPCqJGG
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1nPLwXJ/ASTROIQIYI.png" group-title="ASTRO BOY", ASTRO IQIYI
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571198&extension=ts&play_token=hRuuLYo00p
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncxSV5Xd/ASTROXIAOTAIYANG.jpg" group-title="ASTRO BOY", ASTRO XIAO TAI YANG
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571230&extension=ts&play_token=Yta3e8Qsnk
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFj8TZV9/ASTROAOD3.jpg" group-title="ASTRO BOY", ASTRO AOD 351
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571226&extension=ts&play_token=LqvcYpx38K
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFj8TZV9/ASTROAOD3.jpg" group-title="ASTRO BOY", ASTRO AOD 353
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571229&extension=ts&play_token=mV27xOjoHh
+
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/one.png" group-title="ASTRO BOY", ASTRO ONE
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571193&extension=ts&play_token=Xe6hMCZOQT
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxrBp4V7/Astro-Awani.png" group-title="ASTRO BOY", ASTRO AWANI
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571243&extension=ts&play_token=vHCxA4VVCN
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNfWDrB9/ASTROCERIA.png" group-title="ASTRO BOY", ASTRO CERIA
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571241&extension=ts&play_token=gzEghu5blV
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFmnCv5X/Astro-Ria.png" group-title="ASTRO BOY", ASTRO RIA
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571236&extension=ts&play_token=9Kjmz5Ts26
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zXjhq8s/ASTRORANIA.jpg" group-title="ASTRO BOY", ASTRO RANIA
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571256&extension=ts&play_token=jeUFBopj40
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FPSGV35/ASTROAURA.jpg" group-title="ASTRO BOY", ASTRO AURA
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571257&extension=ts&play_token=F7zkuEWiDN
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QJXr1G4/ASTROStar-Vijay.png" group-title="ASTRO BOY", ASTRO Star Vijay
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571235&extension=ts&play_token=M8aovx7mOs
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX38M4D/Astro-Vinmeen.png" group-title="ASTRO BOY", Astro Vinmeen
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571232&extension=ts&play_token=g6qpv2nU7t
+
 
 
 
