@@ -438,13 +438,13 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a4379
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yyFQTss/championstv1.jpg" group-title="Sports",Champions TV 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298512
+#http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298512
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNYzxVJt/championstv2.jpg" group-title="Sports",Champions TV 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298513
+#http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298513
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrSXxrrT/championstv3.jpg" group-title="Sports",Champions TV 3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298514
+#http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298514
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcFcx9Y/championstv5.jpg" group-title="Sports",Champions TV 5
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298491
@@ -515,9 +515,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VnyLDZF.png" group-title="Sports",TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports", ASTRO CRICKET
-https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-GlPSVUiAE_g/YJVJUDdVerI/AAAAAAAAEZY/mt9F3r8SbfgsO_zSmYuBWU4NSuW0Rl2UwCLcBGAsYHQ/s720/tvrisport-p.png" ,TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -1225,12 +1222,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="nsert.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Insert_logo.svg/revision/latest/scale-to-width-down/640",!nsert
+#EXTINF:-1 group-title="Entertainment" tvg-id="nsert.id" tvg-logo="https://i.postimg.cc/pdpNLqGb/nsert.jpg",!nsert
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://i.imgur.com/nR0Mu2i.png", CCTV-4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://i.postimg.cc/4N5jvrjR/cctv4.png", CCTV-4
 https://github.com/mimipipi22/nontontv/raw/main/FMX/cctv4.m3u8                 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nF2yjT4.png" group-title="Entertainment" ,Dubai One 
@@ -1398,12 +1395,15 @@ https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.postimg.cc/K8F6Vj78/Astro-ASSP5.png" group-title="Sports",Astro SuperSport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+https://webudit.cdnhks.lol/lb/premium127/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports",ASTRO CRICKET 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports",ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium370/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports", ASTRO CRICKET (backup)
+https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="Sports",ASTRO CRICKET 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1411,54 +1411,37 @@ https://webudit.cdnhks.lol/lb/premium370/index.m3u8
 https://hometv.biz.id/my/dash-wv/linear/2504/default_primary.mpd
 
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGY3Stmx/ASTRORUGBYPASSTV.png" group-title="Sports", PREMIERSPORTS
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwNNcDT/ASTROPRIMA.png" group-title="ASTRO BOY", ASTRO PRIMA
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSs1c9KW/ASTROOASIS.png" group-title="ASTRO BOY", ASTRO OASIS
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYkFh8wD/ASTROWARNA.png" group-title="ASTRO BOY", ASTRO WARNA
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XGWc0jc/ASTROVaanavil.jpg" group-title="ASTRO BOY", ASTRO Vaanavil
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1nPLwXJ/ASTROIQIYI.png" group-title="ASTRO BOY", ASTRO IQIYI
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncxSV5Xd/ASTROXIAOTAIYANG.jpg" group-title="ASTRO BOY", ASTRO XIAO TAI YANG
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFj8TZV9/ASTROAOD3.jpg" group-title="ASTRO BOY", ASTRO AOD 351
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFj8TZV9/ASTROAOD3.jpg" group-title="ASTRO BOY", ASTRO AOD 353
-
 
 #EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/one.png" group-title="ASTRO BOY", ASTRO ONE
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxrBp4V7/Astro-Awani.png" group-title="ASTRO BOY", ASTRO AWANI
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNfWDrB9/ASTROCERIA.png" group-title="ASTRO BOY", ASTRO CERIA
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFmnCv5X/Astro-Ria.png" group-title="ASTRO BOY", ASTRO RIA
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zXjhq8s/ASTRORANIA.jpg" group-title="ASTRO BOY", ASTRO RANIA
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FPSGV35/ASTROAURA.jpg" group-title="ASTRO BOY", ASTRO AURA
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QJXr1G4/ASTROStar-Vijay.png" group-title="ASTRO BOY", ASTRO Star Vijay
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX38M4D/Astro-Vinmeen.png" group-title="ASTRO BOY", Astro Vinmeen
 
@@ -1475,76 +1458,76 @@ https://hometv.biz.id/my/dash-wv/linear/2504/default_primary.mpd
 #http://23.237.100.82:8000/PENTHOUSE/index.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsypHr-SDpWh97QMUbmuikuunR0wqJxnEAQ&usqp=CAU" group-title="MOVIE 24/7", VIN DIESEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsPp9Pmg/vindieselmovies.jpg" group-title="MOVIE 24/7", VIN DIESEL
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=168468_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCOi7iEl0rjlSWiObMzdiX94cxj4B0pLHeg&usqp=CAU" group-title="MOVIE 24/7", FAST & FURIOUS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28jTNppS/fast-forious.jpg" group-title="MOVIE 24/7", FAST & FURIOUS
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=521610_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ZLB7zpc-KQwtBk9ue0G4jqZ8eywinOtvHQ&usqp=CAU" group-title="MOVIE 24/7", X-MAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tThDppCY/xmen.jpg" group-title="MOVIE 24/7", X-MAN
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=2772_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3R99--wLvu0d4T3hWBtiTqnXI-Qec-nVj0g&usqp=CAU" group-title="MOVIE 24/7", MARVEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqv2V1gb/marvel.jpg" group-title="MOVIE 24/7", MARVEL
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=494513_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOEmUtF9RmPkEYXvkmJjTSxVPfPSp83rgdQ&usqp=CAU" group-title="MOVIE 24/7", JAMES BOND
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDxVvt4v/jamesbond.jpg" group-title="MOVIE 24/7", JAMES BOND
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=584446_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://cinemags.org/wp-content/uploads/2022/10/american-pie.jpg" group-title="MOVIE 24/7", AMERICAN PIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxQFrqGr/american-pie.jpg" group-title="MOVIE 24/7", AMERICAN PIE (18+)
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=524443_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-XLeutgQ61NHo1D-HsHu49vC8gMGqy1KdiQ&usqp=CAU" group-title="MOVIE 24/7", Mr. Bean
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJF1q9xN/mrbean.jpg" group-title="MOVIE 24/7", Mr. Bean
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559543&extension=ts&play_token=10v7yXhJgO
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkTjR2SxhfdEP2IxeDulJVRdGLhyFpSpzTVg&usqp=CAU" group-title="MOVIE 24/7", Harry Potter
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXPcVhjx/harrypotter.jpg" group-title="MOVIE 24/7", Harry Potter
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559565&extension=ts&play_token=UiVJDVnz9c
 
-#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0037/8008/3782/files/Jurassic_Park_Logo_3_1024x1024.png?v=1654439322" group-title="MOVIE 24/7", Jurassic Park
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxjP3jRK/Jurassic-Park.png" group-title="MOVIE 24/7", Jurassic Park
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559568&extension=ts&play_token=LfpAYDfnEh
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksrbanzKhytyFf3sNi7xhtexgXwtqfzxcOg&usqp=CAU" group-title="MOVIE 24/7", PIRATE OF CARABIAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rXbHCdn/pirates.jpg" group-title="MOVIE 24/7", PIRATE OF CARABIAN
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=559574&extension=ts&play_token=dUlilCifVW
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksrbanzKhytyFf3sNi7xhtexgXwtqfzxcOg&usqp=CAU" group-title="MOVIE 24/7", PIRATE OF CARABIAN 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rXbHCdn/pirates.jpg" group-title="MOVIE 24/7", PIRATE OF CARABIAN 4K
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=976599&extension=ts&play_token=lhBsVhmgNY
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", ID: 24/7 Angry Birds Toons
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FNLsfS/angry-birds-toons.webp" group-title="MOVIE 24/7", ID: 24/7 Angry Birds Toons
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298493
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", ID: 24/7 BabyBus Indonesia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBNQQgN0/babybus.jpg" group-title="MOVIE 24/7", ID: 24/7 BabyBus Indonesia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298494
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", ID: 24/7 Donald Ducks
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBdLPkLM/donaldduck.jpg" group-title="MOVIE 24/7", ID: 24/7 Donald Ducks
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298495
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", ID: 24/7 Doraemon
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHRPcMGB/doraemon.png" group-title="MOVIE 24/7", ID: 24/7 Doraemon
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298496
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", ID: 24/7 Just For Laughs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9KXB3Tx/justforlaugs.webp" group-title="MOVIE 24/7", ID: 24/7 Just For Laughs
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298497
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", ID: 24/7 Mr Bean Cartoon
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NwLYfvc/mrbeanmovie.jpg" group-title="MOVIE 24/7", ID: 24/7 Mr Bean Cartoon
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298498
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="MOVIE 24/7", ID: 24/7 Mr. Bean Classic
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298499
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhCkMvh8/mrbeancartoon.jpg" group-title="MOVIE 24/7", ID: 24/7 Mr. Bean Classic
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298499
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="MOVIE 24/7", ID: 24/7 Tom And Jerry
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298500
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqxmX099/tom-jerry.jpg" group-title="MOVIE 24/7", ID: 24/7 Tom And Jerry
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298500
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="MOVIE 24/7", ID: 24/7 Upin Ipin
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298501
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDcZ3XQ/upin-ipin.jpg" group-title="MOVIE 24/7", ID: 24/7 Upin & Ipin
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298501
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE 24/7", ID: 24/7 Warkop DKI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xBmY1GC/warkopdki.jpg" group-title="MOVIE 24/7", ID: 24/7 Warkop DKI
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298502
 
 
