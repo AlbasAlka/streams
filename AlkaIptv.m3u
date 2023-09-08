@@ -392,17 +392,17 @@ https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-iMgl4TU_5j8/YVc5dBMmzvI/AAAAAAAAH18/RA5Gf7fa4T4kti2LO2pLzalIXiB999_NwCLcBGAsYHQ/s720/spotv-p.png" , SPOTV SCM
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/66FDfy2P/spotv-p.png" , SPOTV SCM
 https://nxanv-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Sports" tvg-logo="https://1.bp.blogspot.com/-iMgl4TU_5j8/YVc5dBMmzvI/AAAAAAAAH18/RA5Gf7fa4T4kti2LO2pLzalIXiB999_NwCLcBGAsYHQ/s720/spotv-p.png" , SPOTV HD 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/66FDfy2P/spotv-p.png" , SPOTV HD 
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3QdO08DxFc8/YVkqljfCvrI/AAAAAAAAH2E/GBy4DGPowSgeadsXnhhIK_feYedtzhUSACLcBGAsYHQ/s720/spotv2-p.png"group-title="Sports", SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvLCqxt8/spotv2-p.png"group-title="Sports", SPOTV 2 HD
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -459,9 +459,9 @@ https://webudit.cdnhks.lol/lb/premium445/index.m3u8?|referer=https://widevine.li
 #EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="Sports", Premier Sports
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/4723
 
-#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="Sports", Usee Sports
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.postimg.cc/KcT9FQj9/useesports.jpg" group-title="Sports", Usee Sports
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298577
-#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="Sports", UsseSport 2
+#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://i.postimg.cc/KcT9FQj9/useesports.jpg" group-title="Sports", UsseSport 2
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0QvYCM30Wn3-KpDcMcr-Byvhv4IHooKXoJUJ9OJuJtcdY2yqbXhuj4BkZsgQqoIPd2givsuUwMMv9Lq1esNdlxO4h7w3IoYTITyxFP_cKPD0CM-wAXg2TAaPzdante5Y9Qgutoiib9D3SeDmcdXv60Og-Arc7l9IpS9BmJbEVYUiMSOJWKFqZQiLs=s720" group-title="Sports",Unifi Sport 1
@@ -584,26 +584,26 @@ http://146.59.85.40:89/cinemax/mono.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAxdihB02KwwcgGf1CmGDHhWgVyJCLHaK-503Ohfat1tFEwffu1gLNGVu&s=10",Cinemax 2
 http://146.59.85.40:89/cinemax2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkwMU7ZHHubdO6n6HXXWQLTXUHGJejR3OKPw&usqp=CAU" group-title="Movies",China Movie Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N02VWtHM/chinamovie.jpg" group-title="Movies",China Movie Channel
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&extension=ts&play_token=Rk1ga2rPdx
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemaaction.png" group-title="Movies",Sky Cinema Action
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YT2GQ0z/skycinemaaction.png" group-title="Movies",Sky Cinema Action
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79471&extension=ts&play_token=HMFfs8lHwd
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemagreats.png" group-title="Movies",Sky Cinema Great
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1DbKy34/skycinemagreats.png" group-title="Movies",Sky Cinema Great
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79466&extension=ts&play_token=0n75sKKzYx
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemahits.png" group-title="Movies",Sky Cinema Hits
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmGgKYj7/skycinemahits.png" group-title="Movies",Sky Cinema Hits
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79465&extension=ts&play_token=5aeBQPEM9S
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemapremiere.png" group-title="Movies",Sky Cinema Premier
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3V5QLkY/skycinemapremiere.png" group-title="Movies",Sky Cinema Premier
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extension=ts&play_token=UVlDovg95s
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemascifiandhorror.png" group-title="Movies",Sky Cinema SCI-FI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrVzWxfv/skycinemascifiandhorror.png" group-title="Movies",Sky Cinema SCI-FI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/FN3BNwo.png" group-title="Movies",Etv Bioskop
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="Movies",Etv Bioskop
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298526
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/YNTKS4Y4/IPTV/main/1687629035-picsay.png" group-title="Movies",Etv Bioskop 02
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298527
@@ -792,7 +792,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7JK6kg.jpg"  group-title="Tv Daerah",Bandung TV HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLc0b3ws/bandungtv.jpg"  group-title="Tv Daerah",Bandung TV HD 
 https://nxanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/221AaUd.png" group-title="Tv Daerah",Batu TV
@@ -1242,7 +1242,7 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.imgur.com/BXwfSLU.png" group-title="Entertainment", Sony GEM TV 
 https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
                
-#EXTINF:-1 tvg-id="sone" tvg-logo="https://1.bp.blogspot.com/-1y889A_BbII/YaZt1nmR5qI/AAAAAAAAIKc/YPYF_HQQImMGQVgkOqhCCvDeUxRuCXebQCLcBGAsYHQ/s720/Untitled-1.png" group-title="Entertainment", New K-Movies 
+#EXTINF:-1 tvg-id="sone" tvg-logo="https://i.postimg.cc/CxRJZXgN/kmovies.png" group-title="Entertainment", New K-Movies 
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1266,35 +1266,35 @@ https://nxanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOaIQLv5hJMZMToZZezmYP69sCl72z89ZL688b3LGIH9TjICmCCiBpOrwWp2UFtq2Y_A3HCNql5yYbhn73CwBi-HM5RFYv63oQm8kD0SHhr3MfrgWR-THYAJs6fsAyyseTJ9TKpiDyUKD5bSSemHZv3iEwcsAs8KbtPCmTw6LyrNageuEYSQ44ZIUI/s720/HunanTV.png" group-title="Entertainment",Hunan TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfcxR16q/HunanTV.png" group-title="Entertainment",Hunan TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyZbZlctqJnc7Mvfp5FaopIBxNr8H6-Y_ekBCOYGT5cozvU-ZqHcGyGc6Ie36xHyKnR1R_61PvSeddWrn6aOca5XMeJ0Hiotl1vU53YFb1y9UB3nLoKaI3YYgDI-qPiDHb4wBxjcQiO-oAGhPjJh7yR86P-NiX2oVGTKEZK2fhSsEpIaImRLiJ4a8R/s720/Sanghai%20Dragon%20TV.png" group-title="Entertainment",Dragon TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XyJfzmn/Sanghai-Dragon-TV.png" group-title="Entertainment",Dragon TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_cFP2yB0sxDYO56XNBGnli4Q8RPOXzHt6e7Stz0DkyTPXkPwmFJ6LjmfNO4KRKzhS1ylK50ggtZUVletXs6WB-vaOECk4KPYpMXc149_RAKRdPPVEopPMdkZj4nL7FsJHT0pmVj8-xqYsvgO--0OSB20_aZ5IthCSOv7udZXe372GnX6UKxbQTEF/s720/Jiangsu%20TV.png" group-title="Entertainment",Jiangsu TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxJHch64/Jiangsu-TV.png" group-title="Entertainment",Jiangsu TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGPd5hHqK4BEoSLtY26hdfDL6_ujdtxXmW506WAerR0OQ459q93QT4wqGcNqjgEAhOcl5eOLkKuaH4kKVn5AOFsJvGtlZwIY9N3SM0MaxjLH1FPpzSzKKZDpsJy4Cn2uUl6Vw3UP0qlyJWv9s3IITxekHwqCa9nwYatJdD9mOItw2Bw4t2pZJX3-jX/s720/XingKong%20TV.png" group-title="Entertainment",Xingkong TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PPZGsXx/Xing-Kong-TV.png" group-title="Entertainment",Xingkong TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-p91LtA1xxbk/YJaJ7XJvz1I/AAAAAAAAEzY/lCvsqGfJfxMp300OQKb_pnhlllE9w6QxwCLcBGAsYHQ/s720/NHK-WORLD-JAPAN-Thumbnail.png" group-title="Entertainment",NHK World TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjpB8DD0/NHK-WORLD-JAPAN.png" group-title="Entertainment",NHK World TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wLD4QniMpPw/YJaJ_f0vT5I/AAAAAAAAE0E/O1Q_nJuk1ZMYwnXmpKWohzZhgUsDOKPFQCLcBGAsYHQ/s720/nhk%2Bpremium.png" group-title="Entertainment",NHK World Premium HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzXwGm9N/NHK-WORLD-PREM.png" group-title="Entertainment",NHK World Premium HD
 https://nxanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jR2qly41nhs/YJYr07KgBXI/AAAAAAAAEmY/9z9rN9fbAOMoM55j0NZhIZv5Y3dMuNHuACLcBGAsYHQ/s720/useeprime-pos.png" group-title="Entertainment",Usee Prime
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnnkmmGL/useeprime.png" group-title="Entertainment",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nBwPUMG.png" group-title="Entertainment",Citra Entertainment 
@@ -1532,62 +1532,82 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298502
 
 
 
-####SPORT####
+#################BEIN#################
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="SPORTS", Supersport Variety 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium416/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://www.rofootball.com/wp-content/uploads/2023/01/ezgif-6-1b9deb8476fe.webp" group-title="SPORTS", Supersport Variety 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium417/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 1 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010765&extension=ts&play_token=9t1VGqgnHU
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="SPORTS", Supersport Variety 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium418/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 2 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010764&extension=ts&play_token=IGchCGC0kf
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jz5jpt1638048871.png" group-title="SPORTS", Supersport Variety 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium419/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 3 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010763&extension=ts&play_token=tSjCZ4Zxce
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCcsmFKF/sspl.png" group-title="SPORTS", Supersport Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium414/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 4 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010762&extension=ts&play_token=5lqUG5WEo9
 
-#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="SPORTS", Supersport Motorsport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium424/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 5 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671288&extension=ts&play_token=jCEvGAnDZw
 
-#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/maximo-1.png" group-title="SPORTS", Supersport Maximo 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium572/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD KIDS 1 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671284&extension=ts&play_token=7ckKI48UmL
 
-#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png" group-title="SPORTS", Supersport La Liga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD KIDS 2 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671283&extension=ts&play_token=Wt385WF31g
+
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD KIDS 3 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671282&extension=ts&play_token=Ub4dYPpBCA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GROUP HD", BEIN BOX OFFICE 1 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671275&extension=ts&play_token=Gu49lWloYy
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GROUP HD", BEIN BOX OFFICE 2 4K
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671272&extension=ts&play_token=550LE8wj0Q
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb67srn0/beinsxtra.jpg" group-title="BEIN GROUP HD",BeIN Sports Xtra HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb67srn0/beinsxtra.jpg" group-title="BEIN GROUP HD",BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId
+
+
+#EXTINF:-1 group-title="BEIN GROUP HD" tvg-logo="https://i.postimg.cc/ZnQsfD53/bein1.jpg", beIN SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/281451
+
+#EXTINF:-1 group-title="BEIN GROUP HD" tvg-logo="https://i.postimg.cc/fLwPk9P3/bein3.jpg", beIN SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/35340
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnQsfD53/bein1.jpg" group-title="BEIN GROUP HD", beIN SPORTS 1 FR
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/129163
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJG2yjMB/bein2.jpg" group-title=" BEIN GROUP HD", beIN SPORTS 2 FR
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/129162
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLwPk9P3/bein3.jpg" group-title="BEIN GROUP HD", beIN SPORTS 3  FR
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/227073
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS GLOBAL 
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/203298
+
+    
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLwPk9P3/bein3.jpg" group-title="BEIN GROUP HD", beIN SPORT AR 3
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/35338
+
+
+###################SPORT##################
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZJx5nw6/polsatsport.png" group-title="SPORTS", Polsat Sport
 https://ddy4.cdnhks.lol/ddy4/premium47/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNtLtRdv/dazn.png" group-title="SPORTS", DAZN 1 ES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNtLtRdv/dazn.png" group-title="SPORTS", DAZN 2 ES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4N2kKzZd/digisport1.png" group-title="SPORTS", Digi Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium400/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXpzMqFR/digisport2.png" group-title="SPORTS", Digi Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium401/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNMLSDVz/digisport3.png" group-title="SPORTS", Digi Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium402/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDFNQwGw/racingcom.png" group-title="SPORTS", Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
@@ -1613,15 +1633,6 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/400771.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63vpGdJ7/skysportf1.png" group-title="SPORTS", SKY SPORTS F1
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/400804.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3zHdgW/sporttv1.png" group-title="SPORTS", Sport TV 1
-https://webudit.cdnhks.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLNDK6t/sporttv2.png" group-title="SPORTS", Sport TV 2
-https://webudit.cdnhks.lol/lb/premium74/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rbwtvhn/sporttv3.png" group-title="SPORTS", ESPN NEWS
-https://webudit.cdnhks.lol/lb/premium288/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="SPORTS", WWE Network
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
@@ -1631,43 +1642,9 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnKgSvDF/abudhabisport2.png" group-title="SPORTS", Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8M4Fh7r/viaplaysport1.png" group-title="SPORTS", Premier Sports
-https://webudit.cdnhks.lol/lb/premium451/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzpn8Kjw/viaplaysport2.png" group-title="SPORTS", Premier Sports 2
-https://webudit.cdnhks.lol/lb/premium550/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZCBGJyh/viaplayextra.png" group-title="SPORTS", Viaplay Xtra
-https://webudit.cdnhks.lol/lb/premium597/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZPZSx2/movistarlidadecampeones.png" group-title="SPORTS", Movistar Liga de Campeones
-https://webudit.cdnhks.lol/lb/premium435/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k478sbDf/movistarlaliga.png" group-title="SPORTS", Movistar La Liga
-https://webudit.cdnhks.lol/lb/premium84/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HswqJ4kV/eurosport1.png" group-title="SPORTS", Eurosport ES
-https://ddy1.cdnhks.lol/ddy1/premium524/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ybW3PQG/eurosport2.png" group-title="SPORTS", Eurosport ES 2
-https://ddy2.cdnhks.lol/ddy2/premium525/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnDcdRHZ/ziggofootball.png" group-title="SPORTS", Ziggo Sport Voetbal
-https://webudit.cdnhks.lol/lb/premium398/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjB1r29W/ziggoselect.png" group-title="SPORTS", Ziggo Sport Select
-https://webudit.cdnhks.lol/lb/premium396/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDqxbb9z/espn.png" group-title="SPORTS", ESPN US
-https://webudit.cdnhks.lol/lb/premium44/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTFsrYmR/espn2.png" group-title="SPORTS", ESPN 2 US
-https://webudit.cdnhks.lol/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 
-
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.postimg.cc/qMP5FhdP/tsncanada.jpg" group-title="Sports",TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.postimg.cc/GmYG9KMt/tsn1.png" group-title="Sports",TSN 1
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.postimg.cc/qMP5FhdP/tsncanada.jpg" group-title="Sports",TSN 2
@@ -1771,34 +1748,34 @@ http://assista.pro:80/0333686557/Vilamariante1/284961
 http://assista.pro:80/0333686557/Vilamariante1/284962
 
 
-#########NEW ADD########
+###############NEW ADD##############
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 4K" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlEwUK_zorT2UR3Wgv63rK1TsY5SFZcb9sbnyjgYDLTFg.png" group-title="Sports",beIN Sports 1 4K
 http://89.105.216.22:8080/live/bebosn/bebosn/7.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="[Atef]  BEIN SPORTS 1 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlEwUK_zorT2UR3Wgv63rK1TsY5SFZcb9sbnyjgYDLTFg.png" group-title="Sports",[Atef]  BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlEwUK_zorT2UR3Wgv63rK1TsY5SFZcb9sbnyjgYDLTFg.png" group-title="Sports",[Atef]  BEIN SPORTS 1 HD
 http://89.105.216.22:8080/live/bebosn/bebosn/8.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 4K" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="Sports",beIN Sports 2 4K
 http://89.105.216.22:8080/live/bebosn/bebosn/9.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="[Atef]  BEIN SPORTS 2 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="Sports",[Atef]  BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHmmKv0cKQdb0-GvN0mvrDfn5hmbqQEpVEIbZc7LLmfaVw.png" group-title="Sports",[Atef]  BEIN SPORTS 2 HD
 http://89.105.216.22:8080/live/bebosn/bebosn/10.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 4K" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlzodFYYuer9AEpf2jyjKUs_A1pF5otMoLnQWPOa2fJww.png" group-title="Sports",beIN Sports 3 4K
 http://89.105.216.22:8080/live/bebosn/bebosn/11.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="[Atef]  BEIN SPORTS 3 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlzodFYYuer9AEpf2jyjKUs_A1pF5otMoLnQWPOa2fJww.png" group-title="Sports",[Atef]  BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHlzodFYYuer9AEpf2jyjKUs_A1pF5otMoLnQWPOa2fJww.png" group-title="Sports",[Atef]  BEIN SPORTS 3 HD
 http://89.105.216.22:8080/live/bebosn/bebosn/12.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="[Atef]  BEIN SPORTS 4 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyMkHdOfcK2FUUB6fHbvRiIw.png" group-title="Sports",[Atef]  BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyMkHdOfcK2FUUB6fHbvRiIw.png" group-title="Sports",[Atef]  BEIN SPORTS 4 HD
 http://89.105.216.22:8080/live/bebosn/bebosn/13.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LO beIN Sports 5 4K" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyywKhs7UPBm9OpF6Em_Xs4w.png" group-title="Sports",LO beIN Sports 5 4K
 http://89.105.216.22:8080/live/bebosn/bebosn/14.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="[Atef]  BEIN SPORTS 5 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyywKhs7UPBm9OpF6Em_Xs4w.png" group-title="Sports",[Atef]  BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGeW6KOHYfbqztjHBwVwc5i_RsQRImc7ZGi_hNMIupCZzyywKhs7UPBm9OpF6Em_Xs4w.png" group-title="Sports",[Atef]  BEIN SPORTS 5 HD
 http://89.105.216.22:8080/live/bebosn/bebosn/15.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LO beIN Sports 6 4K" tvg-logo="http://zeintv.xyz:8080/images/uWD8-zGv2oupQrqlecnGebLv5n8yS5BtchVBR3HggHnmNi8G2skF4BexRosPwYBJeGmFJbTxF9pu87u6Pm_ExQ.png" group-title="Sports",LO beIN Sports 6 4K
@@ -1873,25 +1850,25 @@ http://89.105.216.22:8080/live/bebosn/bebosn/38.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEINS PORTS 01 HD" tvg-logo="http://zeintv.xyz:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="Sports",BEINS PORTS 01 HD
 http://89.105.216.22:8080/live/bebosn/bebosn/39.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="(Atef) Bein Sport 1 SD" tvg-logo="http://zeintv.xyz:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="Sports",(Atef) Bein Sport 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 SD" tvg-logo="http://zeintv.xyz:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="Sports",(Atef) Bein Sport 1 SD
 http://89.105.216.22:8080/live/bebosn/bebosn/40.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINS PORTS 02 HD" tvg-logo="http://zeintv.xyz:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="Sports",BEINS PORTS 02 HD
 http://89.105.216.22:8080/live/bebosn/bebosn/41.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="(atef) Bein Sport 2 SD" tvg-logo="http://zeintv.xyz:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="Sports",(atef) Bein Sport 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 SD" tvg-logo="http://zeintv.xyz:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="Sports",(atef) Bein Sport 2 SD
 http://89.105.216.22:8080/live/bebosn/bebosn/42.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINS PORTS 03 HD" tvg-logo="http://zeintv.xyz:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="Sports",BEINS PORTS 03 HD
 http://89.105.216.22:8080/live/bebosn/bebosn/43.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="(atef) Bein Sport 3 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="Sports",(atef) Bein Sport 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="Sports",(atef) Bein Sport 3 SD
 http://89.105.216.22:8080/live/bebosn/bebosn/44.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="(atef) Bein Sport 4 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="Sports",(atef) Bein Sport 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="Sports",(atef) Bein Sport 4 SD
 http://89.105.216.22:8080/live/bebosn/bebosn/45.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="(Atef) Bein Sport 5 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="Sports",(Atef) Bein Sport 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="Sports",(Atef) Bein Sport 5 SD
 http://89.105.216.22:8080/live/bebosn/bebosn/46.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD" tvg-logo="http://zeintv.xyz:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3yaveYJjgoY-1SM1q_iOdLtwqOlBsmskQmuoCP44xISA.png" group-title="Sports",Bein Sport 6 HD
@@ -2161,140 +2138,6 @@ http://89.105.216.22:8080/live/bebosn/bebosn/134.ts
 #EXTINF:-1 tvg-id="" tvg-name="SP : OMAN.SPORT" tvg-logo="http://zeintv.xyz:8080/images/yOOrPrxjvJDiIdB1lc-jAZJihKo2g9q6b1OL2jVaUU77HoB2GWKkRe0O1P1q4d8U.jpg" group-title="Sports",SP : OMAN.SPORT
 http://89.105.216.22:8080/live/bebosn/bebosn/135.ts
 
-@@@@@@@ BEIN SPORTS @@@@@@@
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Jgj9pZS/bein1.png" group-title="BEIN GROUP HD", beIN Sports 1 EN
-https://webudit.cdnhks.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtLr4j5J/bein2.png" group-title="BEIN GROUP HD", beIN Sports 2 EN
-https://webudit.cdnhks.lol/lb/premium90/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BPWdxq4q/bein3.png" group-title="BEIN GROUP HD", beIN Sports 3 EN
-https://webudit.cdnhks.lol/lb/premium46/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="BEIN GROUP HD",BeIN Sports Xtra HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="BEIN GROUP HD",BeIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId
-
-#EXTINF:-1 group-title="BEIN GROUP HD" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORTS 1 DZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
-
-#EXTINF:-1 group-title="BEIN GROUP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdtDpCFP54s-zsr6Us2mx3EjpQpxNYQqgag&usqp=CAU",BEIN SPORTS 2 DZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
-
-#EXTINF:-1 group-title="BEIN GROUP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU",BEIN SPORTS 3 DZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xhN6GWZ/bein1.png" group-title="BEIN GROUP HD", beIN Sports 1 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium91/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6BvSMN/bein2.png" group-title="BEIN GROUP HD", beIN Sports 2 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium92/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs9cMKX/bein3.png" group-title="BEIN GROUP HD", beIN Sports 3 AR
-https://webudit.cdnhks.lol/lb/premium93/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fstqw4v/bein4.png" group-title="BEIN GROUP HD", beIN Sports 4 AR
-https://webudit.cdnhks.lol/lb/premium94/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bWLvMLx/bein5.png" group-title="BEIN GROUP HD", beIN Sports 5 AR
-https://webudit.cdnhks.lol/lb/premium95/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2FF0Dbk/bein6.png" group-title="BEIN GROUP HD", beIN Sports 6 AR
-https://webudit.cdnhks.lol/lb/premium96/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zm6WMkX/bein7.png" group-title="BEIN GROUP HD", beIN Sports 7 AR
-https://webudit.cdnhks.lol/lb/premium97/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b3dbKfF/beinprem1.png" group-title="BEIN GROUP HD", beIN Sports Premium 1 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxt7x7wC/beinprem2.png" group-title="BEIN GROUP HD", beIN Sports Premium 2 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium99/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B63qS6x7/beinprem3.png" group-title="BEIN GROUP HD", beIN Sports Premium 3 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-
-#EXTINF:-1 group-title="BEIN GROUP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU", beIN SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/281451
-
-#EXTINF:-1 group-title="BEIN GROUP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU", beIN SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
-
-#EXTINF:-1 group-title="BEIN GROUP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU", beIN SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/35340
-
-
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="UK| BEIN SPORTS 1 PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 1 PREMIUM
-https://webudit.cdnhks.lol/lb/premium91/index.m3u8|referer=https://widevine.licenses4.me/
-
-
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="UK| BEIN SPORTS 2 PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 2 PREMIUM
-https://webudit.cdnhks.lol/lb/premium92/index.m3u8|referer=https://widevine.licenses4.me/
-
-
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 3 PREMIUM
-https://webudit.cdnhks.lol/lb/premium93/index.m3u8|referer=https://widevine.licenses4.me/
-
-
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 4 PREMIUM
-https://webudit.cdnhks.lol/lb/premium94/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 5 PREMIUM
-https://webudit.cdnhks.lol/lb/premium95/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 6 PREMIUM
-https://webudit.cdnhks.lol/lb/premium96/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 7 PREMIUM
-https://webudit.cdnhks.lol/lb/premium97/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 1 FR
-http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/129163
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title=" BEIN GROUP HD", beIN SPORTS 2 FR
-http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/129162
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS 3  FR
-http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/227073
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORTS GLOBAL 
-http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/203298
-
-    
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="BEIN GROUP HD", beIN SPORT AR 3
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/35338
-
 
 ########## World Sports ##########
 
@@ -2450,38 +2293,7 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9415
 #EXTINF:-1 group-title="World Sports",Hub Sports 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941571
 
-###########BEIN#######
-
-
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 1 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010765&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 2 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010764&extension=ts&play_token=IGchCGC0kf
-
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 3 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010763&extension=ts&play_token=tSjCZ4Zxce
-
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 4 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010762&extension=ts&play_token=5lqUG5WEo9
-
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD MOVIE 5 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671288&extension=ts&play_token=jCEvGAnDZw
-
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD KIDS 1 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671284&extension=ts&play_token=7ckKI48UmL
-
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD KIDS 2 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671283&extension=ts&play_token=Wt385WF31g
-
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/11/beinondemand.png" group-title="BEIN GROUP HD", BEIN OD KIDS 3 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671282&extension=ts&play_token=Ub4dYPpBCA
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GROUP HD", BEIN BOX OFFICE 1 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671275&extension=ts&play_token=Gu49lWloYy
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_box_office_hepsi.png" group-title="BEIN GROUP HD", BEIN BOX OFFICE 2 4K
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671272&extension=ts&play_token=550LE8wj0Q
+@@@@@@@@@@@@@
 
 
 #EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports News HD
