@@ -2,7 +2,7 @@
 -------------------------------------------
 Name:        ALKAIPTV Playlist
 License:     Free Version
-Version:     1.0
+Version:     2.0
 Author:      Albas alka
 Author Url:  https://alka.my.id
 Telegram:    https://t.me/alkaiptv
@@ -2292,105 +2292,72 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9415
 
 @@@@@@@@@@@@@
 
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports News HD
+#EXTINF:-1,BeIN Sports News HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33689
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports News 4K
+#EXTINF:-1,BeIN Sports News 4K
 http://new-pro.tv:8080/99622282/etbVXafU6f/68935
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Global HD
+#EXTINF:-1,BeIN Sports Global HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33688
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sports Low
+#EXTINF:-1,Bein Sports Low
 http://new-pro.tv:8080/99622282/etbVXafU6f/381749
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sports News Low
+#EXTINF:-1,Bein Sports News Low
 http://new-pro.tv:8080/99622282/etbVXafU6f/381748
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 1 HD
+#EXTINF:-1,BeIN Sports Premium 1 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/154695
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 1 4K
+#EXTINF:-1,BeIN Sports Premium 1 4K
 http://new-pro.tv:8080/99622282/etbVXafU6f/66112
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 1 FHD
+#EXTINF:-1,BeIN Sports Premium 1 FHD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33705
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 1 SD
+#EXTINF:-1,BeIN Sports Premium 1 SD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33687
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sports Premium 1 Low
+#EXTINF:-1,Bein Sports Premium 1 Low
 http://new-pro.tv:8080/99622282/etbVXafU6f/381736
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 2 HD
+#EXTINF:-1,BeIN Sports Premium 2 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/154696
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 2 4K
+#EXTINF:-1,BeIN Sports Premium 2 4K
 http://new-pro.tv:8080/99622282/etbVXafU6f/66111
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 2 FHD
+#EXTINF:-1,BeIN Sports Premium 2 FHD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33704
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 2 SD
+#EXTINF:-1,BeIN Sports Premium 2 SD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33686
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sports Premium 2 Low
+#EXTINF:-1,Bein Sports Premium 2 Low
 http://new-pro.tv:8080/99622282/etbVXafU6f/381737
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 3 HD
+#EXTINF:-1,BeIN Sports Premium 3 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/154697
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 3 4K
+#EXTINF:-1,BeIN Sports Premium 3 4K
 http://new-pro.tv:8080/99622282/etbVXafU6f/66104
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 3 FHD
+#EXTINF:-1,BeIN Sports Premium 3 FHD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33703
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports Premium 3 SD
+#EXTINF:-1,BeIN Sports Premium 3 SD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33685
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sports Premium 3 Low
+#EXTINF:-1,Bein Sports Premium 3 Low
 http://new-pro.tv:8080/99622282/etbVXafU6f/381738
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sport AFC 4K
+#EXTINF:-1,Bein Sport AFC 4K
 http://new-pro.tv:8080/99622282/etbVXafU6f/415136
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sport AFC HD
+#EXTINF:-1,Bein Sport AFC HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/415138
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sport AFC SD
+#EXTINF:-1,Bein Sport AFC SD
 http://new-pro.tv:8080/99622282/etbVXafU6f/415146
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sport AFC 1 4K
+#EXTINF:-1,Bein Sport AFC 1 4K
 http://new-pro.tv:8080/99622282/etbVXafU6f/415137
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sport AFC 1 HD
+#EXTINF:-1,Bein Sport AFC 1 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/415139
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sport AFC 1 SD
+#EXTINF:-1,Bein Sport AFC 1 SD
 http://new-pro.tv:8080/99622282/etbVXafU6f/415147
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports 1 HD
+#EXTINF:-1,BeIN Sports 1 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/154698
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports 1 4K
+#EXTINF:-1,BeIN Sports 1 4K
 http://new-pro.tv:8080/99622282/etbVXafU6f/66105
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports 1 FHD
+#EXTINF:-1,BeIN Sports 1 FHD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33702
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports 1 SD
+#EXTINF:-1,BeIN Sports 1 SD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33684
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",Bein Sports 1 Low
+#EXTINF:-1,Bein Sports 1 Low
 http://new-pro.tv:8080/99622282/etbVXafU6f/381739
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports 2 HD
+#EXTINF:-1,BeIN Sports 2 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/154699
-
-#EXTINF:-1 group-title="SPORT = ALKA" tvg-logo="https://i.postimg.cc/tRwK1Kw0/alkasmart.png",BeIN Sports 2 4K
+#EXTINF:-1,BeIN Sports 2 4K
 http://new-pro.tv:8080/99622282/etbVXafU6f/66106
-
 #EXTINF:-1,BeIN Sports 2 FHD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33701
 #EXTINF:-1,BeIN Sports 2 SD
@@ -2873,4 +2840,453 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/116156
 http://new-pro.tv:8080/99622282/etbVXafU6f/116157
 #EXTINF:-1,Spt-VIP| Ca: TSN 4 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/116158
+
+#EXTINF:-1,SPT | BEIN SPORTS - CA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2170
+#EXTINF:-1,SPT | BEIN SPORTS - US
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2171
+#EXTINF:-1,SPT | BEIN SPORTS EN ESPANOL - LA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2172
+#EXTINF:-1,USA | BEIN SPORTS XTRA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/5501
+#EXTINF:-1,USA | BEIN SPORTS XTRA EN ESPAÑOL
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/5502
+#EXTINF:-1,USA | BEIN SPORTS XTRA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/7421
+#EXTINF:-1,AR | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13865
+#EXTINF:-1,AR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13866
+#EXTINF:-1,AR | BEIN SPORTS 01 HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13867
+#EXTINF:-1,AR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13868
+#EXTINF:-1,AR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13869
+#EXTINF:-1,AR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13870
+#EXTINF:-1,AR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13871
+#EXTINF:-1,AR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13872
+#EXTINF:-1,AR | BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13873
+#EXTINF:-1,AR | BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13874
+#EXTINF:-1,AR | BEIN SPORTS 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13875
+#EXTINF:-1,AR | BEIN SPORTS 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13876
+#EXTINF:-1,AR | BEIN SPORTS 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13877
+#EXTINF:-1,AR | BEIN SPORTS 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13878
+#EXTINF:-1,AR | BEIN SPORTS 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13879
+#EXTINF:-1,AR | BEIN SPORTS 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13880
+#EXTINF:-1,AR | BEIN SPORTS 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13881
+#EXTINF:-1,AR | BEIN SPORTS 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13882
+#EXTINF:-1,AR | BEIN SPORTS 09
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13883
+#EXTINF:-1,AR | BEIN SPORTS 11
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13884
+#EXTINF:-1,AR | BEIN SPORTS 11
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13885
+#EXTINF:-1,AR | BEIN SPORTS 11 ENGLISH
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13886
+#EXTINF:-1,AR | BEIN SPORTS 12
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13887
+#EXTINF:-1,AR | BEIN SPORTS 12 ENGLISH
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13888
+#EXTINF:-1,AR | BEIN SPORTS 13
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13889
+#EXTINF:-1,AR | BEIN SPORTS NEWS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13890
+#EXTINF:-1,AU | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13891
+#EXTINF:-1,AU | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13892
+#EXTINF:-1,BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13893
+#EXTINF:-1,BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13894
+#EXTINF:-1,BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13895
+#EXTINF:-1,BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13896
+#EXTINF:-1,BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13897
+#EXTINF:-1,BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13898
+#EXTINF:-1,BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13899
+#EXTINF:-1,BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13900
+#EXTINF:-1,BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13901
+#EXTINF:-1,BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13902
+#EXTINF:-1,BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13903
+#EXTINF:-1,BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13904
+#EXTINF:-1,BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13905
+#EXTINF:-1,BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13906
+#EXTINF:-1,BEIN SPORTS 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13907
+#EXTINF:-1,BEIN SPORTS 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13908
+#EXTINF:-1,BEIN SPORTS 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13909
+#EXTINF:-1,BEIN SPORTS 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13910
+#EXTINF:-1,BEIN SPORTS 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13911
+#EXTINF:-1,BEIN SPORTS 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13912
+#EXTINF:-1,BEIN SPORTS 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13913
+#EXTINF:-1,BEIN SPORTS 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13914
+#EXTINF:-1,BEIN SPORTS 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13915
+#EXTINF:-1,BEIN SPORTS 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13916
+#EXTINF:-1,BEIN SPORTS 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13917
+#EXTINF:-1,BEIN SPORTS 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13918
+#EXTINF:-1,BEIN SPORTS 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13919
+#EXTINF:-1,BEIN SPORTS 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13920
+#EXTINF:-1,BEIN SPORTS 09
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13921
+#EXTINF:-1,BEIN SPORTS 09
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13922
+#EXTINF:-1,BEIN SPORTS 10
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13923
+#EXTINF:-1,BEIN SPORTS 10
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13924
+#EXTINF:-1,BEIN SPORTS 11
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13925
+#EXTINF:-1,BEIN SPORTS 11
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13926
+#EXTINF:-1,BEIN SPORTS CONNECT US
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13927
+#EXTINF:-1,BEIN SPORTS CONNECT N US
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13928
+#EXTINF:-1,BEIN SPORTS EN ESPANOL - LA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13929
+#EXTINF:-1,BEIN SPORTS EN ESPAï¿½OL |USA OPC 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13930
+#EXTINF:-1,BEIN SPORTS EN ESPAï¿½OL |USA OPC 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13931
+#EXTINF:-1,BEIN SPORTS EN ESPAï¿½OL |USA OPC 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13932
+#EXTINF:-1,BEIN SPORTS ENG 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13933
+#EXTINF:-1,BEIN SPORTS ENG 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13934
+#EXTINF:-1,BEIN SPORTS ENG 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13935
+#EXTINF:-1,BEIN SPORTS ES
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13936
+#EXTINF:-1,BEIN SPORTS ES
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13937
+#EXTINF:-1,BEIN SPORTS ESPANA ES
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13938
+#EXTINF:-1,BEIN SPORTS LA LIGA - LA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13939
+#EXTINF:-1,BEIN SPORTS LALIGA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13940
+#EXTINF:-1,BEIN SPORTS N (LATINO AMERICA)
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13941
+#EXTINF:-1,BEIN SPORTS N LAM
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13942
+#EXTINF:-1,BEIN SPORTS XTRA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13943
+#EXTINF:-1,BEIN SPORTS XTRA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13944
+#EXTINF:-1,BEIN SPORTS XTRA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13945
+#EXTINF:-1,BEIN SPORTS XTRA EN ESPAï¿½OL
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13946
+#EXTINF:-1,BEIN SPORTS ï¿½
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13947
+#EXTINF:-1,CA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13948
+#EXTINF:-1,CA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13949
+#EXTINF:-1,ES | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13950
+#EXTINF:-1,ES | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13951
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13952
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13953
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13954
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13955
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13956
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13957
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13958
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13959
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13960
+#EXTINF:-1,FR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13961
+#EXTINF:-1,FR | BEIN SPORTS 01 FRENCH
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13962
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13963
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13964
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13965
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13966
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13967
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13968
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13969
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13970
+#EXTINF:-1,FR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13971
+#EXTINF:-1,FR | BEIN SPORTS 02 FRENCH
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13972
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13973
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13974
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13975
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13976
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13977
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13978
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13979
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13980
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13981
+#EXTINF:-1,FR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13982
+#EXTINF:-1,FR | BEIN SPORTS MAX 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13983
+#EXTINF:-1,FR | BEIN SPORTS MAX 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13984
+#EXTINF:-1,FR | BEIN SPORTS MAX 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13985
+#EXTINF:-1,FR | BEIN SPORTS MAX 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13986
+#EXTINF:-1,FR | BEIN SPORTS MAX 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13987
+#EXTINF:-1,FR | BEIN SPORTS MAX 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13988
+#EXTINF:-1,FR | BEIN SPORTS MAX 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13989
+#EXTINF:-1,FR | BEIN SPORTS MAX 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13990
+#EXTINF:-1,FR | BEIN SPORTS MAX 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13991
+#EXTINF:-1,FR | BEIN SPORTS MAX 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13992
+#EXTINF:-1,FR | BEIN SPORTS MAX 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13993
+#EXTINF:-1,FR | BEIN SPORTS MAX 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13994
+#EXTINF:-1,FR | BEIN SPORTS MAX 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13995
+#EXTINF:-1,FR | BEIN SPORTS MAX 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13996
+#EXTINF:-1,FR | BEIN SPORTS MAX 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13997
+#EXTINF:-1,FR | BEIN SPORTS MAX 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13998
+#EXTINF:-1,FR | BEIN SPORTS MAX 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13999
+#EXTINF:-1,FR | BEIN SPORTS MAX 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14000
+#EXTINF:-1,FR | BEIN SPORTS MAX 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14001
+#EXTINF:-1,FR | BEIN SPORTS MAX 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14002
+#EXTINF:-1,FR | BEIN SPORTS MAX 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14003
+#EXTINF:-1,FR | BEIN SPORTS MAX 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14004
+#EXTINF:-1,FR | BEIN SPORTS MAX 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14005
+#EXTINF:-1,FR | BEIN SPORTS MAX 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14006
+#EXTINF:-1,FR | BEIN SPORTS MAX 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14007
+#EXTINF:-1,FR | BEIN SPORTS MAX 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14008
+#EXTINF:-1,FR | BEIN SPORTS MAX 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14009
+#EXTINF:-1,FR | BEIN SPORTS MAX 09
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14010
+#EXTINF:-1,FR | BEIN SPORTS MAX 09
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14011
+#EXTINF:-1,FR | BEIN SPORTS MAX 10
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14012
+#EXTINF:-1,ID | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14013
+#EXTINF:-1,ID | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14014
+#EXTINF:-1,LA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14015
+#EXTINF:-1,LA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14016
+#EXTINF:-1,LA | BEIN SPORTS EN ESPANOL
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14017
+#EXTINF:-1,LA | BEIN SPORTS N
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14018
+#EXTINF:-1,PH | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14019
+#EXTINF:-1,TR | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14020
+#EXTINF:-1,TR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14021
+#EXTINF:-1,TR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14022
+#EXTINF:-1,TR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14023
+#EXTINF:-1,TR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14024
+#EXTINF:-1,TR | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14025
+#EXTINF:-1,TR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14026
+#EXTINF:-1,TR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14027
+#EXTINF:-1,TR | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14028
+#EXTINF:-1,TR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14029
+#EXTINF:-1,TR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14030
+#EXTINF:-1,TR | BEIN SPORTS 03
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14031
+#EXTINF:-1,TR | BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14032
+#EXTINF:-1,TR | BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14033
+#EXTINF:-1,TR | BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14034
+#EXTINF:-1,TR | BEIN SPORTS HABER
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14035
+#EXTINF:-1,TR | BEIN SPORTS HABER PLUS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14036
+#EXTINF:-1,TR | BEIN SPORTS MAX 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14037
+#EXTINF:-1,TR | BEIN SPORTS MAX 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14038
+#EXTINF:-1,UK |  BEIN SPORTS 11
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14039
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14040
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14041
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14042
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14043
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14044
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14045
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14046
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14047
+#EXTINF:-1,USA | BEIN SPORTS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14048
+#EXTINF:-1,USA | BEIN SPORTS 01
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14049
+#EXTINF:-1,USA | BEIN SPORTS 02
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14050
+#EXTINF:-1,USA | BEIN SPORTS 04
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14051
+#EXTINF:-1,USA | BEIN SPORTS 05
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14052
+#EXTINF:-1,USA | BEIN SPORTS 06
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14053
+#EXTINF:-1,USA | BEIN SPORTS 07
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14054
+#EXTINF:-1,USA | BEIN SPORTS 08
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14055
+#EXTINF:-1,USA | BEIN SPORTS 12
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14056
+#EXTINF:-1,USA | BEIN SPORTS EN ESPANOL
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14057
+#EXTINF:-1,USA | BEIN SPORTS EN ESPANOL
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14058
+#EXTINF:-1,USA | BEIN SPORTS EN ESPAï¿½OL
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14059
+#EXTINF:-1,USA | BEIN SPORTS LA LIGA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14060
+#EXTINF:-1,USA | BEIN SPORTS LALIGA TV
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14061
+#EXTINF:-1,USA | BEIN SPORTS N
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14062
+#EXTINF:-1,USA | BEIN SPORTS SPANISH
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14063
+#EXTINF:-1,USA | BEIN SPORTS USA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14064
+#EXTINF:-1,USA | BEIN SPORTS XTRA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14065
+#EXTINF:-1,USA | BEIN SPORTS XTRA
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14066
+#EXTINF:-1,PA |  WILKES-BARRE | FOX WOLF
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/14089
+#EXTINF:-1,|TR| BEIN SPORT 1 HD²
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2682
+#EXTINF:-1,|TR| BEIN SPORT 2 HD²
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2683
+#EXTINF:-1,|TR| BEIN SPORT 3 HD²
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2684
+#EXTINF:-1,|TR| BEIN SPORT 4 HD²
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2685
+#EXTINF:-1,|TR| BEIN SPORTS 1 HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2686
+#EXTINF:-1,|TR| BEIN SPORTS 2 HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2687
+#EXTINF:-1,|TR| BEIN SPORTS 3 HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2688
+#EXTINF:-1,|TR| BEIN SPORTS 4 HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2689
+#EXTINF:-1,|TR| BEIN SPORTS HABER HD PLUS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2690
+#EXTINF:-1,|TR| SMART SPOR HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2691
+#EXTINF:-1,|TR| SPORTS TV
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2692
+#EXTINF:-1,|TR| TIVIBU SPOR 1 HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2693
+#EXTINF:-1,|TR| TIVIBU SPOR 2 HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2694
+#EXTINF:-1,|TR| TIVIBU SPOR 3 HD
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2695
+#EXTINF:-1,|TR| TRT SPOR HD PLUS
+http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/2696
 
